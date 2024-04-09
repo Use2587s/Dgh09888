@@ -13,8 +13,8 @@
    "clientsettings": {
       "nodes": [
          {
-            "host": "lava.link",
-            "port": 80,
+            "host": "localhost",
+            "port": 5000,
             "password": "123456"
          
          }
